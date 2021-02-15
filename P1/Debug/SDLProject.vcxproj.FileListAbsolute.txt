@@ -1,0 +1,4 @@
+C:\Users\monde\Desktop\School Stuff\Game Programming\SDLProject\Debug\SDLProject.exe
+C:\Users\monde\Desktop\School Stuff\Game Programming\SDLProject\Debug\SDLProject.pdb
+C:\Users\monde\Desktop\School Stuff\Game Programming\P1\Debug\SDLProject.exe
+C:\Users\monde\Desktop\School Stuff\Game Programming\P1\Debug\SDLProject.pdb

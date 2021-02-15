@@ -1,0 +1,2 @@
+C:/Users/monde/Desktop/School Stuff/Game Programming/SDLProject/glm/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/monde/Desktop/School Stuff/Game Programming/SDLProject/glm/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
